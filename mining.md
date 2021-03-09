@@ -367,65 +367,56 @@
    b. Monitoring and predicting failures in a hydro power plant  
    c. Predicting the future stock price of a company using historical records  
    d. Extracting the frequencies of a sound wave  
-   **Answer:** Extracting the frequencies of a sound wave
-
+   **
 1. Which of the following is not a data mining task?  
    Select one:  
    a. Feature Subset Detection  
    b. Association Rule Discovery  
    c. Regression  
    d. Sequential Pattern Discovery  
-   **Answer:** Feature Subset Detection
-
+   **
 1. Value set {poor, average, good, excellent} is an example of Select one:  
    a. Nominal attribute  
    b. Numeric attribute  
    c. Continuous attribute  
    d. Ordinal attribute  
-   **Answer:** Ordinal attribute
-
+   **
 1. Which data mining task can be used for predicting wind velocities as a function of temperature, humidity, air pressure, etc.? Select one:  
    a. Cluster Analysis  
    b. Regression  
    c. Classification  
    d. Sequential pattern discovery  
-   **Answer:** Regression
-
+   **
 1. Identify the example of sequence data, Select one:  
    a. weather forecast  
    b. data matrix  
    c. market basket data  
    d. genomic data  
-   **Answer:** genomic data
-
+   **
 1. In a data mining task where it is not clear what type of patterns could be interesting, the data mining system should, Select one:  
    a. handle different granularities of data and patterns  
    b. perform all possible data mining tasks  
    c. allow interaction with the user to guide the mining process  
    d. perform both descriptive and predictive tasks  
-   **Answer:** allow interaction with the user to guide the mining process
-1. Removing duplicate records is a data mining process called .... Select one:  
+   **1. Removing duplicate records is a data mining process called .... Select one:  
    a. data isolation  
    b. recovery  
    c. data pruning  
    d. data cleaning  
-   **Answer:** data cleaning
-
+   **
 1. Various visualization techniques are used in .... step of KDD, Select one:  
    a. selection  
    b. interpretation  
    c. transformation  
    d. data mining  
-   **Answer:** interpretation
-
+   **
 1. Data set {brown, black, blue, green , red} is example of  
    Select one:  
    a. Continuous attribute  
    b. Ordinal attribute  
    c. Numeric attribute  
    d. Nominal attribute  
-   **Answer:** Nominal attribute
-
+   **
 1. Which of the following is NOT a data quality related issue?  
    Select one:  
    a. Attribute value range  
@@ -440,15 +431,13 @@
    b. prediction  
    c. association analysis  
    d. feature selection  
-   **Answer:** Outlier analysis
-
+   **
 1. Which of the following is NOT example of ordinal attributes? Select one:  
    a. Ordered numbers  
    b. Military ranks  
    c. Zip codes  
    d. Movie ratings  
-   **Answer:** Zip codes
-
+   **
 1. Which of the following is not a data pre-processing methods, Select one:  
    a. Data Cleaning  
    b. Data Visualization  
@@ -462,31 +451,27 @@
    b. Missing data  
    c. Changing data  
    d. Noisy data  
-   **Answer:** Noisy data
-
+   **
 1. Data Visualization in mining cannot be done using  
    Select one:  
    a. Graphs  
    b. Information Graphics  
    c. Charts  
    d. Photos  
-   **Answer:** Photos
-
+   **
 1. Nominal and ordinal attributes can be collectively referred to as \_\_\_ attributes, Select one:  
    a. perfect  
    b. consistent  
    c. qualitative  
    d. optimized  
-   **Answer:** qualitative
-
+   **
 1. Identify the example of Nominal attribute  
    Select one:  
    a. Salary  
    b. Temperature  
    c. Gender  
    d. Mass  
-   **Answer:** Gender
-
+   **
 1. Which of the following are descriptive data mining activities?  
    Select one:  
    a. Clustering  
@@ -501,55 +486,48 @@
    b. Classification is a predictive data mining task  
    c. Clustering is a descriptive data mining task  
    d. Regression is a descriptive data mining task  
-   **Answer:** Regression is a descriptive data mining task
-1. Which of the following is NOT data mining efficiency/scalability issue?  
+   **1. Which of the following is NOT data mining efficiency/scalability issue?  
    Select one:  
    a. The running time of a data mining algorithm  
    b. Incremental execution  
    c. Data partitioning  
    d. Easy to use user interface  
-   **Answer:** Easy to use user interface
-
+   **
 1. Synonym for data mining is  
    Select one:  
    a. Data Warehouse  
    b. Knowledge discovery in database  
    c. Business intelligence  
    d. OLAP  
-   **Answer:** Knowledge discovery in database
-
+   **
 1. Dimensionality reduction reduces the data set size by removing **\_\_\_**  
    Select one:  
    a. irrelevant attributes  
    b. composite attributes  
    c. derived attributes  
    d. relevant attributes  
-   **Answer:** irrelevant attributes
-
+   **
 1. Which of the following is NOT an example of data quality related issue?  
    Select one:  
    a. Using a field for different purposes  
    b. Contradicting values  
    c. Noise  
    d. Multiple date formats  
-   **Answer:** Multiple date formats
-
+   **
 1. Similarity is a numerical measure whose value is  
    Select one:  
    a. Higher when objects are more alike  
    b. Lower when objects are more alike  
    c. Increases with Minkowski distance  
    d. Higher when objects are not alike  
-   **Answer:** Higher when objects are more alike
-
+   **
 1. The dissimilarity between two data objects is  
    Select one:  
    a. Lower when objects are more alike  
    b. Higher when objects are more alike  
    c. Lower when objects are not alike  
    d. Applies only categorical attributes  
-   **Answer:** Lower when objects are more alike
-1. Which of the following data mining task is known as Market Basket Analysis?  
+   **1. Which of the following data mining task is known as Market Basket Analysis?  
    Select one:  
    a. Classification  
    b. Regression  
@@ -563,8 +541,7 @@
    b. unlike unsupervised learning, supervised learning can be used to detect outliers  
    c. unlike supervised leaning, unsupervised learning can form new classes  
    d. there is no difference  
-   **Answer:** unlike unsupervised learning, supervised learning needs labeled data
-
+   **
 1. The Data Sets are made up of  
    Select one:  
    a. Data Objects  
